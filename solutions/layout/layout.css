@@ -1,0 +1,24 @@
+.inner {
+    margin: 0 10px;
+}
+.header {
+    background: red;
+}
+.layout {
+    background: green;
+    margin: 0 auto;
+    width: 1000px;
+}
+.sidebar {
+    width: 200px;
+    float: left;
+    background: gold;
+}
+.main {
+    width: 800px;
+    float: left;
+    background: silver;
+}
+.footer {
+    background: orange;
+}

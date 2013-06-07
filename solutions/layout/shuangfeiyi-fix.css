@@ -1,0 +1,31 @@
+.header {
+    background: pink;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+.main {
+    float: left;
+    width: 100%;
+}
+.main-inner {
+    margin: 0 200px;
+    height: 200px;
+    background: red;
+}
+.side-left {
+    float: left;
+    width: 200px;
+    background: blue;
+    margin-left: -100%;
+}
+.side-right {
+    float: left;
+    width: 200px;
+    background: orange;
+    margin-left: -200px;
+}
+.footer {
+    background: yellow;
+}
